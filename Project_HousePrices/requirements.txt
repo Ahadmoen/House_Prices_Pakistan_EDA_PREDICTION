@@ -1,0 +1,14 @@
+# Core Python data stack
+pandas
+numpy
+matplotlib
+seaborn
+
+# Apache Spark (needs Java installed separately, e.g. OpenJDK 17+)
+pyspark
+
+# ML experiment tracking
+mlflow
+
+# (Optional) Jupyter for notebooks
+jupyter
