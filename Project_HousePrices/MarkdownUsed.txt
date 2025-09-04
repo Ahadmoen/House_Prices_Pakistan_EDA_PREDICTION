@@ -1,0 +1,23 @@
+Markdown
+
+
+For successful action
+<div class='alert alert-block alert-success'>
+    <b>Success</b>: This box indicates a successful action.
+
+
+For warning action
+<div class='alert alert-block alert-warning'>
+    <b>Warning</b>: This box indicates a cautious action.
+</div>
+
+
+For danger action
+<div class='alert alert-block alert-danger'>
+    <b>Darning</b>: This box indicates a danger action.
+</div>
+
+For green blue line
+![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
+
+
