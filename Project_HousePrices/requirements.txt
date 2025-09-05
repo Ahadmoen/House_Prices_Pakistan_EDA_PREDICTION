@@ -5,7 +5,13 @@ matplotlib
 seaborn
 
 # Apache Spark (needs Java installed separately, e.g. OpenJDK 17+)
+
+# For Java 11 (older Spark):
 pyspark==3.3.2
+
+
+# For Java 17/21 (newer Spark):
+# pyspark==3.5.1
 
 # ML experiment tracking
 mlflow
