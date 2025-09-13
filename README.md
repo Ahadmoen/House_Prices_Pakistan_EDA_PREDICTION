@@ -7,6 +7,7 @@ It includes **data preprocessing, model training, evaluation, prediction, experi
 
 ## 📂 Project Structure
 
+```bash
 Project_HousePrices/
 │
 ├── pycache/ # Compiled Python cache files
@@ -31,7 +32,7 @@ Project_HousePrices/
 ├── .gitignore # Files/folders ignored by Git
 ├── .dvcignore # Files ignored by DVC
 └── README.md # Project documentation
-
+```
 ---
 
 ## ⚙️ Setup
