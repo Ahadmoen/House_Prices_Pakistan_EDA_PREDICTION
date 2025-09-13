@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction Project
+# Price Prediction Project
 
 This project predicts house prices using a **Random Forest Regressor** on a structured dataset.  
 It includes **data preprocessing, model training, evaluation, prediction, experiment tracking with MLflow, and result saving**.
